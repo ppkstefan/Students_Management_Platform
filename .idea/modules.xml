@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Lab 7-9/.idea/Lab 7-9 Biblioteca.iml" filepath="$PROJECT_DIR$/../Lab 7-9/.idea/Lab 7-9 Biblioteca.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/lab_7-9_eercitiu_books/.idea/PythonProject1.iml" filepath="$USER_HOME$/PycharmProjects/lab_7-9_eercitiu_books/.idea/PythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SEMINAR_7_213/.idea/SEMINAR_7_213.iml" filepath="$PROJECT_DIR$/../SEMINAR_7_213/.idea/SEMINAR_7_213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exemplu_clase/.idea/exemplu_clase.iml" filepath="$PROJECT_DIR$/../exemplu_clase/.idea/exemplu_clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laborator_7-9.iml" filepath="$PROJECT_DIR$/.idea/laborator_7-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laborator_7_model/.idea/laborator_7_model.iml" filepath="$PROJECT_DIR$/../laborator_7_model/.idea/laborator_7_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yolo_programming/.idea/yolo_programming.iml" filepath="$PROJECT_DIR$/../yolo_programming/.idea/yolo_programming.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+1,2,Rezolvati problema: 1+2=?,12/02/2026
+1,3,Afisati mesajul Hello World,12/02/2026
+1,4,Calculati aria unui cerc,19/02/2026
+2,1,Verificati daca un numar e par,19/02/2026
+2,2,Rezolvati ecuatia de gradul 2,26/02/2026
+2,3,Maximul a trei numere citite,26/02/2026
+3,1,Afisati primele n numere Fibonacci,05/03/2026
+3,2,Calculati factorialul unui numar,05/03/2026
+3,3,Suma elementelor unui vector,12/03/2026
+4,1,Ordonati crescator un vector,12/03/2026
+4,2,Cautati o valoare intr-un sir,19/03/2026
+4,3,Numarati vocalele dintr-un text,19/03/2026
+5,1,Calculati transpusa unei matrici,26/03/2026
+5,2,Produsul a doua matrici patratice,26/03/2026
+5,3,Verificare numar prim functie,02/04/2026
+6,1,Calculati CMMDC a doua numere,02/04/2026
+6,2,Verificati daca un nr e palindrom,09/04/2026
+6,3,Inversati un sir de caractere,09/04/2026
+7,1,Implementati o structura de stiva,16/04/2026
+7,2,Implementati o structura de coada,16/04/2026
+8,1,Parcurgerea in adancime a unui graf,23/04/2026
+4,4,Colorati urmatorul desen:,12/09/2094
